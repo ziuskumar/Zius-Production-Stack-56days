@@ -322,4 +322,4 @@ JavaScript
 ✅ Type inference
 ✅ Basic type safety
 
-🟨 **Next:** Continue TypeScript essentials
+🟨 **Next:** Continue TypeScript essentialss
